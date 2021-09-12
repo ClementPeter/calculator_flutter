@@ -1,7 +1,7 @@
 # calculator_flutter
 
--[x] Mobile
--[x] Web
+- [x] Mobile
+- [x] Web
 
 
 ## Getting Started
