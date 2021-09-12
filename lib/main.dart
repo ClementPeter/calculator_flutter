@@ -123,14 +123,16 @@ class _SimpleCalulatorState extends State<SimpleCalulator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Calculator'),
+        title: Text(
+          'Calculator',
+          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
+        ),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
           //Equation container
           Container(
-            //color: Colors.brown,
             alignment: Alignment.centerRight,
             padding: EdgeInsets.fromLTRB(10, 30, 10, 0),
             child:
