@@ -1,12 +1,8 @@
 # calculator_flutter
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementPeter&hide=issues&show_icons=true)
+-[x] Mobile
+-[x] Web
 
-
-
-
-
-A new Flutter project.
 
 ## Getting Started
 
